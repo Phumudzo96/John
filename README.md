@@ -9,7 +9,11 @@ incorrectly entered strings in a list where “John” is the only correct strin
 
 Example program run (what should show up in the Python Console when
 you run it):
+       
        Enter your name : <user enters Tim>
+       
        Enter your name : <user enters Mark>
+       
        Enter your name: <user enters John>
+       
        Incorrect names: [‘ Tim’, ‘Mark’]
